@@ -1,5 +1,5 @@
 # Coin-Man
-A fun android game where the Coin-Man has to collect as many coins as possible, But be aware of bombs!
+A fun android game where the Coin-Man has to collect as many coins as possible, But be aware of Bombs!
 
 
 
